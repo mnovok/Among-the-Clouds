@@ -1,0 +1,1 @@
+Welcome to a mini game called Among the Clouds!  It was made as a project for Object-oriented programming class.  This is being read from a file!  [Space] - to shoot  [Left click] - to Start Game [Escape] - to leave Info
